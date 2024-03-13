@@ -230,8 +230,12 @@ h1 {
 .error-page p {
 	font-size: 2rem;
 	font-weight: 200;
+	text-align: center;
 	@media only screen and (max-width: 768px) {
 		font-size: 1.5rem;
+	}
+	@media only screen and (max-width: 480px) {
+		font-size: 1.2rem;
 	}
 }
 .error-page.active {
