@@ -11,6 +11,7 @@ Responsive Design: The application is designed to be responsive and work seamles
 ```
 
 **Tech Stack**
+
 ```
 HTML: Used for structuring the content of the web page.
 CSS: Utilized for styling the layout and enhancing the visual appeal of the Weather App.
@@ -25,9 +26,7 @@ To use the Weather App:
 1.Clone this repository to your local machine.
 2.Navigate to the project directory in your terminal or command prompt.
 3.Start a live server (e.g., Live Server, http-server).
-4.Create a file named as creds.js.
-5.Inside the creds.js file, create a constant named as API_KEY and equate it with your Api Key from Openweather website.Then create a function named as getKey() and return API_KEY from that function.
-6.Open the index.html file in your preferred web browser.
-7.Enter the name of the city you want to check the weather for in the input field.
-8.Press the "Get Weather" button to fetch and display the current weather conditions for the specified city.
+4.Open the index.html file in your preferred web browser.
+5.Enter the name of the city you want to check the weather for in the input field.
+6.Press the "Get Weather" button to fetch and display the current weather conditions for the specified city.
 ```
