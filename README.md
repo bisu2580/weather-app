@@ -11,10 +11,12 @@ Responsive Design: The application is designed to be responsive and work seamles
 ```
 
 **Tech Stack**
-_HTML_: Used for structuring the content of the web page.
-_CSS_: Utilized for styling the layout and enhancing the visual appeal of the Weather App.
-_JavaScript_: Implemented to fetch data from the OpenWeather API, handle user interactions, and dynamically update the UI.
-_OpenWeather API_: Integrated to retrieve real-time weather data for the specified city.
+```
+HTML: Used for structuring the content of the web page.
+CSS: Utilized for styling the layout and enhancing the visual appeal of the Weather App.
+JavaScript: Implemented to fetch data from the OpenWeather API, handle user interactions, and dynamically update the UI.
+OpenWeather API: Integrated to retrieve real-time weather data for the specified city.
+```
 
 **Usage**
 To use the Weather App:
